@@ -68,7 +68,16 @@
                 android:layout_width="250dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="https://stackoverflow.com/questions/4270394/maximum-width-and-height-for-imageview-in-android"
+                android:text="https://elearning.umn.ac.id/pluginfile.php/18508/mod_resource/content/1/MODUL%20-%20IF570%20PEMROGRAMAN%20APLIKASI%20MOBILE.pdf"
+                android:gravity="center"
+                android:layout_marginTop="5dp"
+                android:autoLink="web"
+                android:textColorLink="@color/blue"/>
+            <TextView
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="https://stackoverflow.com/questions/6054562/how-to-make-the-corners-of-a-button-round"
                 android:gravity="center"
                 android:layout_marginTop="5dp"
                 android:autoLink="web"
