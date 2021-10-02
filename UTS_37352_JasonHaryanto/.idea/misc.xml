@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/drawable/button_rounded.xml" value="0.14635416666666667" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/drawable/button_rounded2.xml" value="0.14635416666666667" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/drawable/button_rounded3.xml" value="0.15462962962962962" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/drawable/custon_icon.xml" value="0.14635416666666667" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/activity_library.xml" value="0.17481884057971014" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/activity_main.xml" value="0.21195652173913043" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/activity_profile.xml" value="0.17481884057971014" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/activity_profile2.xml" value="0.21195652173913043" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/activity_sound_detail.xml" value="0.21195652173913043" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/button_rounded.xml" value="0.21195652173913043" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/input_form.xml" value="0.17481884057971014" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/layout/list_sound.xml" value="0.17481884057971014" />
+        <entry key="..\:/Project Android/UTS_37352_JasonHaryanto/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
